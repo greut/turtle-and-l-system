@@ -1,0 +1,23 @@
+{
+  "name": "turtle-and-l-system",
+  "description": "Course about recursivity and L-System using Python",
+  "author": "Yoan Blanc",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greut/turtle-and-l-system"
+  },
+  "devDependencies": {
+    "gulp-data": "^1.2.0",
+    "gulp-front-matter": "^1.2.3",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-handlebars-html": "0.0.2",
+    "gulp-markdown": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.5",
+    "handlebars": "^3.0.3",
+    "pygmentize-bundled": "^2.3.0",
+    "through2": "^2.0.0"
+  }
+}
