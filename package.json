@@ -9,15 +9,19 @@
     "url": "https://github.com/greut/turtle-and-l-system"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-data": "^1.2.0",
     "gulp-front-matter": "^1.2.3",
-    "gulp-handlebars": "^4.0.0",
+    "gulp-handlebars": "^5.0.0",
     "gulp-handlebars-html": "0.0.2",
-    "gulp-markdown": "^1.0.0",
+    "gulp-markdown": "^2.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.5",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.0.11",
     "pygmentize-bundled": "^2.3.0",
     "through2": "^2.0.0"
+  },
+  "scripts": {
+    "build": "gulp"
   }
 }
